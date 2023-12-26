@@ -1,0 +1,44 @@
+.conteiner{
+  background: linear-gradient(180deg, #0F0C29 -11.94%, #302B63 51.32%, #24243E 113.28%);
+
+}
+
+p{
+  color:aliceblue;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 69px;
+}
+
+h1{
+  color: white;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 150px;
+}
+
+input{
+  width: 342px;
+  height: 50px;
+  padding-left: 26px;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  outline: none;
+}
+
+button{
+  background: black;
+  width: 372px;
+  height: 50px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
